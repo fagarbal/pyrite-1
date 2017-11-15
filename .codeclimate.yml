@@ -1,3 +1,4 @@
-tslint:
-  enabled: true
-  config: tslint.json
+engines:
+  tslint:
+    enabled: true
+    config: tslint.json
